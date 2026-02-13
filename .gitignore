@@ -3,3 +3,18 @@
 __pycache__/
 *.pyc
 *.csv:Zone.Identifier
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+ENV/
+venv.bak/
+env.bak/
+
+# Virtual Environment related files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm specific virtual environment
+.idea/virtualenv.xml
